@@ -2,17 +2,7 @@
 <h1 align="center">Hi 👋, I'm Salama</h1>
 <h3 align="center">💻 Full Stack Developer Intern @ Capoffshore | 🌐 Web Enthusiast | 📚 Lifelong Learner</h3>
 
----
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SalamaLaamiar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/SalamaLaamiar?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
-
----
 
 ## 🚀 About Me
 - 🎓 2nd-year student at school of information sciences at Rabat 
@@ -47,7 +37,7 @@
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nexus/nexus-original.svg" width="40" height="40" />
+  
 
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
