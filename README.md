@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Salma</h1>
-<h3 align="center">💻 Software Developer | 🌐 Web Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Full Stack Developer Intern @ Capoffshore | 🌐 Aspiring Frontend Specialist</h3>
 
 ---
 
@@ -14,12 +14,13 @@
 
 ---
 
-<!-- About Me -->
-### 🚀 About Me
-- 🎓 2nd-year student at **ESI Rabat**
-- 💼 Intern at **Capoffshore**
-- 🌱 Currently learning **React**,  **React Native**, **Next.js**
-- 💬 Ask me about **Java, Prisma, NextAuth.js**
+## 🚀 About Me
+- 🎓 2nd-year student at school of information sciences at Rabat 
+- 💼 **Full Stack Developer Intern** at **Capoffshore** (7 July 2025 → 6 September 2025)  
+- 🛠 Working on a **Blog CMS Web Application** during internship  
+- 🌱 Currently learning **React, Next.js, JavaScript, TypeScript**  
+- 📚 Have basics in **HTML, CSS, C, PHP**  
+- 💬 Ask me about **Java, Web Development Basics, Prisma, NextAuth.js**  
 - 📫 Reach me at **salamaLaamiar@gmail.com**
 
 ---
@@ -46,10 +47,19 @@
 
 ---
 
-<!-- Top Languages -->
-### 📈 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalamaLaamiar&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 🛠️ Languages and Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 </p>
 
 ---
