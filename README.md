@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SalamaLaamiar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/SalamaLaamiar?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 - 💼 Intern at **Capoffshore**
 - 🌱 Currently learning **React**,  **React Native**, **Next.js**
 - 💬 Ask me about **Java, Prisma, NextAuth.js**
-- 📫 Reach me at **salamaLaamiar@example.com**
+- 📫 Reach me at **salamaLaamiar@gmail.com**
 
 ---
 
