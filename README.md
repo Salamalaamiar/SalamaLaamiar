@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Salma</h1>
+<h1 align="center">Hi 👋, I'm Salama</h1>
 <h3 align="center">💻 Full Stack Developer Intern @ Capoffshore | 🌐 Aspiring Frontend Specialist</h3>
 
 ---
