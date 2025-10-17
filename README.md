@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-- 🎓 2nd-year student at school of information sciences at Rabat 
+- 🎓 Final-year student at school of information sciences at Rabat 
 - 💼 **Full Stack Developer Intern** at **Capoffshore** (7 July 2025 → 6 September 2025)  
 - 🛠 Working on a **Blog CMS Web Application** during internship  
 - 🌱 Currently learning **React, Next.js, JavaScript, TypeScript**  
