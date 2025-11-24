@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Salama</h1>
-<h3 align="center">💻 Full Stack Developer Intern @ Capoffshore | 🌐 Web Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Full Stack Developer  | 🌐 Web Enthusiast | 📚 Lifelong Learner</h3>
 
 
 
